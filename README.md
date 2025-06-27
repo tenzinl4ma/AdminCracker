@@ -8,11 +8,25 @@
 
 ---
 
-## Description
+## About
 
-**AdminCrack** helps security researchers and ethical hackers demonstrate the risks of password reuse and local privilege escalation by replacing `sudo` with a controlled, instrumented clone.\
-It logs fake credentials and allows brute-forcing using a custom or existing wordlist (like `rockyou.txt`) to simulate cracking behavior.
+AdminCrack is a lightweight and stealthy post-exploitation tool designed for red teams, ethical hackers, and security researchers to safely perform sudo bruteforcing without touching the real system binary.
 
+Instead of hammering the actual /usr/bin/sudo — which could trigger detection, logging, or rate-limiting mechanisms — AdminCrack clones the sudo interface into a custom sandboxed wrapper, allowing you to:
+
+Safely capture sudo prompts in a simulated environment
+
+Bruteforce the fake sudo using custom or standard password lists (like rockyou.txt)
+
+Avoid leaving traces in system logs or alerting EDR/HIDS tools
+
+Validate if a guessed password is the real admin password by comparing against sudo behavior
+
+Seamlessly escalate from low-privilege (guest) to high-privilege (admin) once the password is cracked
+
+Great for lab environments, internal tests, or post-shell privilege escalation scenarios
+
+With built-in detection to prevent accidentally targeting the real sudo, AdminCrack ensures safe testing conditions.
 ---
 
 ## Legal Disclaimer
