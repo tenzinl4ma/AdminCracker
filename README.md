@@ -1,4 +1,4 @@
-# AdminCrack 
+<h1> AdminCrack </h1> 
 
 ![image](https://github.com/user-attachments/assets/0a829704-c4ac-41dd-9a36-f7234622f02b)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## About
+ <h1>About</h1>
 
 AdminCrack is a lightweight and stealthy post-exploitation tool designed for red teams, ethical hackers, and security researchers to safely perform sudo bruteforcing without touching the real system binary.
 
@@ -29,7 +29,7 @@ Great for lab environments, internal tests, or post-shell privilege escalation s
 With built-in detection to prevent accidentally targeting the real sudo, AdminCrack ensures safe testing conditions.
 ---
 
-## Legal Disclaimer
+<h1>Legal Disclaimer</h1> 
 
 This tool is **strictly intended for educational, ethical, and authorized security assessments only**.\
 Do **not** use AdminCrack on any system without **explicit written permission**.
@@ -38,7 +38,7 @@ The developer is **not responsible** for any misuse or damage caused by this too
 
 ---
 
-## Installation for Kali Linux
+<h1>Installation for Kali Linux</h1>
 
 ### 1. Clone the repository
 
@@ -83,7 +83,7 @@ source ~/.bashrc
 
 ---
 
-## 🧪 Usage Examples
+<h1>🧪 Usage Examples</h1>
 
 ### Run the brute-force engine
 
@@ -101,7 +101,7 @@ You can replace this with any custom list.
 
 ---
 
-## ⚙️ Features
+<h1><⚙️ Features/h1> 
 
 - Fake `sudo` binary to safely capture passwords
 - Logs real/fake password attempts
@@ -119,7 +119,7 @@ You can replace this with any custom list.
 
 ---
 
-## 🔗 Dependencies
+ <h1>🔗 Dependencies</h1>
 
 - Python 3.x
 - [pyfiglet](https://pypi.org/project/pyfiglet/)
@@ -127,7 +127,7 @@ You can replace this with any custom list.
 
 ---
 
-## 🤝 Contributing
+<h1>🤝 Contributing</h1>
 
 Contributions are welcome!
 
@@ -150,7 +150,7 @@ Bug reports and feature suggestions are also appreciated through Issues.
 
 ---
 
-## 📜 License
+<h1><📜 License/h1> 
 
 MIT License
 
