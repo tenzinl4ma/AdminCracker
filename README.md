@@ -150,7 +150,7 @@ Bug reports and feature suggestions are also appreciated through Issues.
 
 ---
 
-<h1><📜 License/h1> 
+<h1>📜 License/h1> 
 
 MIT License
 
@@ -183,6 +183,7 @@ SOFTWARE.
 ## 👤 Author
 
 **Tenzin Lama**\
+<br>
 Instagram: [DraggonWarrior](https://www.instagram.com/tenzinlama212/#) <br>
 Email: tenzinlama212@gmail.com
 ---
@@ -193,5 +194,5 @@ AdminCrack exists for one purpose: **to educate and protect**.\
 Misuse of this tool violates ethical hacking standards and legal boundaries.
 
 Stay sharp.\
-Stay ethical.
+Stay ethical.<br>
 Stay halal
