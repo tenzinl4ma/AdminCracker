@@ -101,7 +101,7 @@ You can replace this with any custom list.
 
 ---
 
-<h1><⚙️ Features/h1> 
+<h1>⚙️ Features</h1> 
 
 - Fake `sudo` binary to safely capture passwords
 - Logs real/fake password attempts
@@ -150,7 +150,7 @@ Bug reports and feature suggestions are also appreciated through Issues.
 
 ---
 
-<h1>📜 License/h1> 
+<h1>📜 License</h1> 
 
 MIT License
 
