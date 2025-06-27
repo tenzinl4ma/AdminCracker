@@ -167,9 +167,8 @@ SOFTWARE.
 ## 👤 Author
 
 **Tenzin Lama**\
-GitHub: [@your-username](https://github.com/your-username)\
-Email: [your.email@example.com](mailto\:your.email@example.com)
-
+Instagram: [DraggonWarrior](https://www.instagram.com/tenzinlama212/#)
+Email: tenzinlama212@gmail.com
 ---
 
 ## 🧠 Ethical Use Reminder
