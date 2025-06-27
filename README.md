@@ -1,19 +1,21 @@
 # AdminCrack 🛡️
 
-&#x20;&#x20;
+![image](https://github.com/user-attachments/assets/0a829704-c4ac-41dd-9a36-f7234622f02b)
+
+
 
 > **AdminCrack** is an open-source penetration testing utility designed to simulate password harvesting and bruteforcing techniques against a fake `sudo` clone — all in a controlled, educational environment.
 
 ---
 
-## 🔍 Description
+## Description
 
 **AdminCrack** helps security researchers and ethical hackers demonstrate the risks of password reuse and local privilege escalation by replacing `sudo` with a controlled, instrumented clone.\
 It logs fake credentials and allows brute-forcing using a custom or existing wordlist (like `rockyou.txt`) to simulate cracking behavior.
 
 ---
 
-## ⚠️ Legal Disclaimer
+## Legal Disclaimer
 
 This tool is **strictly intended for educational, ethical, and authorized security assessments only**.\
 Do **not** use AdminCrack on any system without **explicit written permission**.
@@ -22,7 +24,7 @@ The developer is **not responsible** for any misuse or damage caused by this too
 
 ---
 
-## 📦 Installation
+## Installation for Kali Linux
 
 ### 1. Clone the repository
 
@@ -167,16 +169,15 @@ SOFTWARE.
 ## 👤 Author
 
 **Tenzin Lama**\
-Instagram: [DraggonWarrior](https://www.instagram.com/tenzinlama212/#)
+Instagram: [DraggonWarrior](https://www.instagram.com/tenzinlama212/#) <br>
 Email: tenzinlama212@gmail.com
 ---
 
-## 🧠 Ethical Use Reminder
+## Ethical Use Reminder
 
 AdminCrack exists for one purpose: **to educate and protect**.\
 Misuse of this tool violates ethical hacking standards and legal boundaries.
 
 Stay sharp.\
-Stay legal.\
 Stay ethical.
-
+Stay halal
