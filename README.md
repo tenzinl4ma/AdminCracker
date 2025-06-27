@@ -1,4 +1,4 @@
-# AdminCrack 🛡️
+# AdminCrack 
 
 ![image](https://github.com/user-attachments/assets/0a829704-c4ac-41dd-9a36-f7234622f02b)
 
@@ -29,8 +29,7 @@ The developer is **not responsible** for any misuse or damage caused by this too
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AdminCrack.git
-cd AdminCrack
+git clone https://github.com/tenzinl4ma/AdminCracker.git
 ```
 
 ### 2. Install Python requirements
@@ -99,7 +98,8 @@ You can replace this with any custom list.
 
 ---
 
-## 🖼️ Screenshots
+## 
+<img width="1414" alt="Screenshot 2025-06-27 at 12 51 34 PM" src="https://github.com/user-attachments/assets/648dccbe-606f-4c2c-9824-66c8da530963" />
 
 
 
